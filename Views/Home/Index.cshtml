@@ -1,0 +1,220 @@
+﻿@model Interesse
+@{
+    ViewData["Title"] = "Iniciativa Saúde da Cidade";
+}
+
+<div class="row">
+    <div class="col-md-6 mt-4">
+        <div class="card shadow-sm mb-4">
+            <div class="card-body">
+                <h1 class="card-title text-primary">Movimento na Cidade</h1>
+                <p class="card-text text-justify">
+                    O "Movimento na Cidade" promove saúde e bem-estar através de atividades físicas em espaços públicos, transformando praças e parques em locais para exercícios. Oferecemos aulas gratuitas de yoga, corrida, dança e ginástica, acessíveis para todas as idades e níveis.
+                </p>
+                <p class="card-text text-justify">
+                    Além de melhorar a saúde, o projeto fortalece a comunidade e revitaliza espaços urbanos. Participe, conheça seus vizinhos e redescubra o prazer de se movimentar. Juntos, construímos uma cidade mais ativa e conectada.
+                </p>
+            </div>
+        </div>
+        <img src="./img/fg189719.jpg" alt="Pessoas praticando exercícios"
+            class="img-fluid rounded shadow-sm image-effect" style="width: 100%; max-height: 400px; object-fit: cover;">
+    </div>
+
+    <div class="col-md-6 mt-4">
+        <div class="card shadow-sm mb-4">
+            <div class="card-body">
+                <h2 class="card-title text-success">Entre em contato!</h2>
+                <p class="card-text">Tire suas dúvidas e fique por dentro das novidades:</p>
+
+                <form method="POST" id="frmCadastro">
+                    <div class="form-group">
+                        <label asp-for="Nome">Nome:</label>
+                        <input asp-for="Nome" class="form-control" id="nome" required maxlength="20" minlength="2"/>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email">E-mail:</label>
+                        <input asp-for="Email" class="form-control" id="email" required maxlength="50"/>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Mensagem">Mensagem (opcional):</label>
+                        <textarea asp-for="Mensagem" class="form-control" id="mensagem" maxlength="100" rows="3"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary" id="btnSubmit">Enviar</button>
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-4 mb-3">
+                <a data-toggle="modal" href="#ModalAgenda" class="text-decoration-none">
+                    <div class="card text-center h-100 p-0 shadow-sm">
+                        <img src="./img/evento2.png" class="card-img-top mx-auto d-block mt-3" style="width: 60px; height: 60px;">
+                        <div class="card-body p-2">
+                            <h5 class="card-title mb-0 d-none d-xl-block">Eventos</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-4 mb-3">
+                <a data-toggle="modal" href="#ModalDicas" class="text-decoration-none">
+                    <div class="card text-center h-100 p-0 shadow-sm">
+                        <img src="./img/Saude.png" class="card-img-top mx-auto d-block mt-3" style="width: 60px; height: 60px;">
+                        <div class="card-body p-2">
+                            <h5 class="card-title mb-0 d-none d-xl-block">Saúde</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-4 mb-3">
+                <a data-toggle="modal" href="#ModalApoiadores" class="text-decoration-none">
+                    <div class="card text-center h-100 p-0 shadow-sm">
+                        <img src="./img/apoiadores.jpg" class="card-img-top mx-auto d-block mt-3" style="width: 60px; height: 60px;">
+                        <div class="card-body p-2">
+                            <h5 class="card-title mb-0 d-none d-xl-block">Apoiadores</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal dicas -->
+<div class="modal fade" id="ModalDicas" tabindex="-1" role="dialog" aria-labelledby="ModalDicasTitle" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-success text-white">
+                <h5 class="modal-title" id="ModalDicasTitle">Dicas para o estilo de vida</h5>
+                <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        <h6 class="mb-2">Alimentação Saudável</h6>
+                        <p>Consuma mais frutas, verduras e legumes. Evite alimentos processados e bebidas açucaradas.</p>
+                    </li>
+                    <li class="list-group-item">
+                        <h6 class="mb-2">Exercícios Regulares</h6>
+                        <p>Pratique pelo menos 30 minutos de atividade física moderada por dia, 5 vezes por semana.</p>
+                    </li>
+                    <li class="list-group-item">
+                        <h6 class="mb-2">Sono Adequado</h6>
+                        <p>Durma de 7 a 9 horas por noite para manter sua saúde física e mental.</p>
+                    </li>
+                    <li class="list-group-item">
+                        <h6 class="mb-2">Gerenciamento do Estresse</h6>
+                        <p>Pratique técnicas de relaxamento como meditação ou yoga para reduzir o estresse diário.</p>
+                    </li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal agenda -->
+<div class="modal fade" id="ModalAgenda" tabindex="-1" role="dialog" aria-labelledby="ModalAgendaTitle" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-primary text-white">
+                <h5 class="modal-title" id="ModalAgendaTitle">Agenda de Eventos</h5>
+                <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="list-group">
+                    <a href="#" class="list-group-item list-group-item-action">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">Caminhada no Parque</h5>
+                            <small>30/12/22 - 20:30</small>
+                        </div>
+                        <p class="mb-1">Venha participar de uma caminhada saudável no parque da cidade.</p>
+                    </a>
+                    <a href="#" class="list-group-item list-group-item-action">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">Workshop de Nutrição</h5>
+                            <small>10/01/23 - 12:00</small>
+                        </div>
+                        <p class="mb-1">Aprenda sobre alimentação saudável com nossos nutricionistas.</p>
+                    </a>
+                    <a href="#" class="list-group-item list-group-item-action">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">Aula de Yoga ao Ar Livre</h5>
+                            <small>27/03/23 - 15:30</small>
+                        </div>
+                        <p class="mb-1">Relaxe e fortaleça seu corpo com uma aula de yoga gratuita no parque.</p>
+                    </a>
+                    <a href="#" class="list-group-item list-group-item-action">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">Palestra sobre Saúde Mental</h5>
+                            <small>08/05/23 - 17:15</small>
+                        </div>
+                        <p class="mb-1">Participe de uma palestra informativa sobre a importância da saúde mental.</p>
+                    </a>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal apoiadores -->
+<div class="modal fade" id="ModalApoiadores" tabindex="-1" role="dialog" aria-labelledby="ModalApoiadoresTitle" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info text-white">
+                <h5 class="modal-title" id="ModalApoiadoresTitle">Nossos Apoiadores</h5>
+                <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row mb-4">
+                    <div class="col-2 d-flex align-items-center justify-content-center">
+                        <img src="icons/emoji-wink-fill.svg" alt="" width="42" height="42">
+                    </div>
+                    <div class="col-10">
+                        <h5 class="mb-1">Nutrição do Bem</h5>
+                        <p class="mb-0">Equipe de nutricionistas altamente capacitadas para indicar a alimentação mais saudável.</p>
+                    </div>
+                </div>
+                <div class="row mb-4">
+                    <div class="col-2 d-flex align-items-center justify-content-center">
+                        <img src="icons/house.svg" alt="" width="42" height="42">
+                    </div>
+                    <div class="col-10">
+                        <h5 class="mb-1">Clínica Saúde</h5>
+                        <p class="mb-0">A clínica médica para cuidar de você.</p>
+                    </div>
+                </div>
+                <div class="row mb-4">
+                    <div class="col-2 d-flex align-items-center justify-content-center">
+                        <img src="icons/activity.svg" alt="" width="42" height="42">
+                    </div>
+                    <div class="col-10">
+                        <h5 class="mb-1">Academia Gym</h5>
+                        <p class="mb-0">O espaço ideal para prática de exercícios.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-2 d-flex align-items-center justify-content-center">
+                        <img src="icons/heart-half.svg" alt="" width="42" height="42">
+                    </div>
+                    <div class="col-10">
+                        <h5 class="mb-1">Suplementos do Bem</h5>
+                        <p class="mb-0">Os melhores suplementos alimentares.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>

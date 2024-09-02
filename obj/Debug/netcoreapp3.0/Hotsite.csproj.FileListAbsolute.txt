@@ -1,0 +1,221 @@
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Hotsite.exe
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Hotsite.deps.json
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.json
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.dev.json
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Hotsite.Views.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.input.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.output.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.RazorCoreGenerate.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Manifest.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.xml
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\package-lock.json
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\package.json
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Serilog.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.File.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Serilog.Formatting.Compact.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Serilog.Sinks.Async.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Serilog.Sinks.File.dll
+C:\Users\Ricardo\Desktop\Nova pasta (3)\vynna19-SENAC---UC06---Atividades-main\bin\Debug\netcoreapp3.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\package-lock.json
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\package.json
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.exe
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.deps.json
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.json
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.dev.json
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.Views.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.File.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Formatting.Compact.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Sinks.Async.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Sinks.File.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.input.cache
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.output.cache
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.RazorCoreGenerate.cache
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Manifest.cache
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.xml
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\Ricardo\Desktop\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\package-lock.json
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\package.json
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.StaticWebAssets.xml
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.exe
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.deps.json
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.json
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.dev.json
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.pdb
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.Views.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Hotsite.Views.pdb
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Castle.Core.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Extensions.Logging.File.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Formatting.Compact.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Sinks.Async.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Sinks.File.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\Serilog.Sinks.RollingFile.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.csproj.AssemblyReference.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfoInputs.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfo.cs
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.csproj.CoreCompileInputs.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cs
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.input.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.output.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.RazorCoreGenerate.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cs
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.Views.pdb
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Manifest.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Pack.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.Hotsite.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.Hotsite.props
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.Hotsite.props
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.Hotsite.props
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.csproj.Up2Date
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.dll
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.pdb
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
