@@ -219,3 +219,4 @@ D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Inici
 D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.dll
 D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.pdb
 D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
+D:\Projetos\Atividades Senac\Iniciativa-Saúde\Iniciativa-Saúde\Atividade\Iniciativa Saúde\obj\Debug\netcoreapp3.0\Hotsite.sourcelink.json

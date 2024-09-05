@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" class="h-100">
 
 <head>
     <meta charset="utf-8" />
@@ -9,7 +9,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
-            background-color: rgb(216, 231, 216);
             font-family: 'Poppins', sans-serif;
         }
         h1, h2, h3, h4, h5, h6 {
@@ -19,15 +18,19 @@
             font-family: 'Montserrat', sans-serif;
             font-weight: 700;
         }
+        .typing-cursor {
+            font-weight: bold;
+            color: #007bff;
+        }
     </style>
 </head>
 
-<body>
+<body class="d-flex flex-column h-100" style="background-color: rgb(216, 231, 216);">
 
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom box-shadow">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                <a class="navbar-brand font-weight-bold" asp-area="" asp-controller="Home" asp-action="Index">
                     <img src="~/img/logo.png" alt="Logo Iniciativa Saúde" height="30" class="d-inline-block align-top mr-2">
                     Iniciativa Saúde
                 </a>
@@ -61,22 +64,21 @@
         </nav>
     </header>
 
-    <div class="container">
-        <main role="main" class="pb-4">
+    <main role="main" class="flex-shrink-0 mb-4">
+        <div class="container">
             @RenderBody()
-        </main>
-    </div>
+        </div>
+    </main>
 
-    <footer class="footer border-top py-4 bg-white"> <!-- Adicionado bg-white aqui -->
+    <footer class="footer mt-auto py-3 bg-white border-top">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-md-6 text-center text-md-left mb-2 mb-md-0">
-                    <p class="mb-0">&copy; 2023 - Iniciativa Saúde</p>
+                <div class="col-md-4 text-center text-md-left">
+                    <small class="text-muted">&copy; 2023 - Iniciativa Saúde</small>
                 </div>
-                <div class="col-md-6 text-center text-md-right">
-                    <a asp-area="" asp-controller="Home" asp-action="Privacy" class="d-inline-block">Política de Privacidade</a>
-                    <span class="mx-2 d-none d-sm-inline-block">|</span>
-                    <a href="#" target="_blank" class="d-inline-block">Instagram</a>
+                <div class="col-md-8 text-center text-md-right">
+                    <a asp-area="" asp-controller="Home" asp-action="Privacy" class="text-muted small mr-3 hover-effect">Política de Privacidade</a>
+                    <a href="https://www.instagram.com/" target="_blank" class="text-muted small hover-effect">Instagram</a>
                 </div>
             </div>
         </div>
