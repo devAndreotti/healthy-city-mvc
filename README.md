@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-<img src="./healthy-city.png" alt="Projeto Banner"/>
+<img src="./healthy-city.png" alt="Home Banner"/>
 </div>
 
 💻 Sobre o Projeto
@@ -39,13 +39,12 @@ jQuery: Biblioteca JavaScript para simplificar a manipulação de elementos DOM.
 Bootstrap: Framework CSS para desenvolvimento web responsivo.
 jQuery: Biblioteca JavaScript para manipulação de DOM.
 
-💪 Como Contribuir
-Contribuições são bem-vindas! Siga estas etapas para colaborar:
-Faça um fork do projeto.
-Crie uma nova branch para sua feature: git checkout -b feature/nome-feature.
-Commit suas mudanças: git commit -m 'Adiciona nova feature'.
-Envie para a branch: git push origin feature/nome-feature.
-Abra um Pull Request.
+## 💪 Contribuição
+1. Faça um fork do projeto.
+2. Crie uma nova branch para sua feature: `git checkout -b feature/nome-feature`.
+3. Commit suas mudanças: `git commit -m 'Adiciona nova feature'`.
+4. Envie para a branch: `git push origin feature/nome-feature`.
+5. Abra um Pull Request.
 
-📝 Nota
-Este projeto foi desenvolvido como um exemplo de website MVC utilizando HTML, CSS e JavaScript. Fique à vontade para explorar, adaptar e expandir o que foi criado.
+## 📌 Nota do Projeto
+Este projeto foi originalmente desenvolvido como parte de uma atividade educacional e está sob a Licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme os termos da licença.
