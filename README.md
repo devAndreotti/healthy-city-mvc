@@ -13,12 +13,12 @@
 O Healthy-City-MVC é um website desenvolvido com HTML, CSS (Bootstrap) e JavaScript, utilizando o padrão MVC (Model-View-Controller) para gerenciar a lógica do projeto. O objetivo é promover a saúde e o bem-estar na cidade, oferecendo informações sobre eventos, dicas de saúde e um formulário de contato para interação com os usuários.
 
 ⚙️ Funcionalidades
-Página Inicial: Apresenta informações sobre o "Movimento na Cidade", com um título animado, descrição do projeto e um contador regressivo para o próximo evento.
-Eventos: Exibe uma lista de eventos próximos, com informações sobre data, título e descrição.
-Dicas de Saúde: Apresenta dicas de saúde em um modal, com informações sobre alimentação, exercícios, sono e gerenciamento do estresse.
-Apoiadores: Mostra os principais apoiadores do projeto, com informações sobre cada um.
-Formulário de Contato: Permite que os usuários enviem mensagens para a equipe do projeto, com validação de dados.
-Política de Privacidade: Detalhada em uma página separada, com informações sobre coleta, uso e segurança dos dados dos usuários.
+- [x] Página Inicial: Apresenta informações sobre o "Movimento na Cidade", com um título animado, descrição do projeto e um contador regressivo para o próximo evento.
+- [x] Eventos: Exibe uma lista de eventos próximos, com informações sobre data, título e descrição.
+- [x] Dicas de Saúde: Apresenta dicas de saúde em um modal, com informações sobre alimentação, exercícios, sono e gerenciamento do estresse.
+- [x] Apoiadores: Mostra os principais apoiadores do projeto, com informações sobre cada um.
+- [x] Formulário de Contato: Permite que os usuários enviem mensagens para a equipe do projeto, com validação de dados.
+- [x] Política de Privacidade: Detalhada em uma página separada, com informações sobre coleta, uso e segurança dos dados dos usuários.
 
 🧭 Como Executar o Projeto
 Clone o Repositório:
