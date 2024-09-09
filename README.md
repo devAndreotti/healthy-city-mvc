@@ -17,10 +17,10 @@
 Este projeto, inicialmente desenvolvido durante um curso técnico, foi recentemente atualizado e expandido. A **Iniciativa Saúde da Cidade** é uma aplicação web que promove saúde e bem-estar urbano através do "Movimento na Cidade", oferecendo informações sobre eventos de atividades físicas, dicas de saúde e interação com a comunidade.
 
 ## 🆕 Novidades na Versão 2.0
-- **Design Responsivo Aprimorado**: Interface totalmente renovada com Bootstrap.
-- **Animações Interativas**: Adição de efeitos de digitação e contagem regressiva.
 - **Sistema de Eventos Dinâmico**: Implementação de um sistema de gerenciamento de eventos mais robusto.
 - **Modais Informativos**: Inclusão de modais para agenda, dicas de saúde e apoiadores.
+- **Design Responsivo Aprimorado**: Interface totalmente renovada com Bootstrap.
+- **Animações Interativas**: Adição de efeitos de digitação e contagem regressiva.
 
 ## ⚙️ Funcionalidades Principais
 - **Exibição e gerenciamento de eventos de atividades físicas**.
@@ -35,6 +35,7 @@ Este projeto, inicialmente desenvolvido durante um curso técnico, foi recenteme
 - **Banco de Dados**: MySQL
 - **Outras**: Font Awesome para ícones
 
+```
 ## 📂 Estrutura do Projeto
 ├── src/                                    # Diretório principal do código-fonte
 │   ├── css/                                # Arquivos de estilo CSS
@@ -47,6 +48,7 @@ Este projeto, inicialmente desenvolvido durante um curso técnico, foi recenteme
 │       └── theme.js                        # Gerenciamento de temas
 ├── index.html                              # Página principal do projeto
 └── README.md                               # Documentação do projeto
+```
 
 ## 🚀 Como Executar o Projeto
 1. **Clone o repositório**:
