@@ -1,4 +1,4 @@
-# 🏙️ Iniciativa Saúde da Cidade 2.0
+# 🏙️ Iniciativa Saúde 2.0
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
@@ -10,17 +10,17 @@
 </p>
 
 <div align="center">
-  <img src="./projeto-novo.png" alt="Página Inicial da Iniciativa Saúde da Cidade 2.0">
+  <img src="./projeto-novo.png" alt="Página Inicial da Iniciativa Saúde">
 </div>
 
 ## 📋 Sobre o Projeto
-Este projeto, inicialmente desenvolvido durante um curso técnico, foi recentemente atualizado e expandido. A **Iniciativa Saúde da Cidade** é uma aplicação web que promove saúde e bem-estar urbano através do "Movimento na Cidade", oferecendo informações sobre eventos de atividades físicas, dicas de saúde e interação com a comunidade.
+Este projeto, inicialmente desenvolvido durante um curso técnico do **Senac**, foi recentemente atualizado e expandido. A **Iniciativa Saúde da Cidade 2.0** é uma aplicação web que promove saúde e bem-estar urbano através do "Movimento na Cidade", oferecendo informações sobre eventos de atividades físicas de uma cidade fictícia, dicas de saúde e patrocinadores do movimento.
 
 ## 🆕 Novidades na Versão 2.0
-- **Sistema de Eventos Dinâmico**: Implementação de um sistema de gerenciamento de eventos mais robusto.
+- **Sistema de Eventos Dinâmico**: Implementação de um sistema de gerenciamento de eventos automático.
+- **Animações Interativas**: Adição de efeitos de digitação e contagem regressiva dos eventos.
 - **Modais Informativos**: Inclusão de modais para agenda, dicas de saúde e apoiadores.
 - **Design Responsivo Aprimorado**: Interface totalmente renovada com Bootstrap.
-- **Animações Interativas**: Adição de efeitos de digitação e contagem regressiva.
 
 ## ⚙️ Funcionalidades Principais
 - **Exibição e gerenciamento de eventos de atividades físicas**.
@@ -53,48 +53,45 @@ Este projeto, inicialmente desenvolvido durante um curso técnico, foi recenteme
 ## 🚀 Como Executar o Projeto
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/iniciativa-saude-cidade.git
+   git clone https://github.com/devAndreotti/healthy-city-mvc.git
    ```
 2. **Restaure as dependências**:
    ```bash
    dotnet restore
    ```
-3. **Configure o banco de dados** no arquivo `appsettings.json`.
-4. **Execute as migrações**:
-   ```bash
-   dotnet ef database update
-   ```
-5. **Inicie a aplicação**:
+3. **Inicie a aplicação**:
    ```bash
    dotnet run
    ```
 
-## 🔄 Evolução do Projeto
-- **Versão 1.0**: Desenvolvida durante o curso técnico, com funcionalidades básicas.
-- **Versão 2.0**: Atualização recente com melhorias significativas na interface e funcionalidades.
-
 ## 🔮 Planos Futuros
+- [ ] **Adição do banco de dados em SQL, utilizando MySQL Workbench para o devido funcionamento**
 - [ ] **Implementação de um sistema de login para usuários**.
-- [ ] **Criação de perfis de usuário com histórico de participação em eventos**.
-- [ ] **Integração com APIs de mapas para localização de eventos**.
 - [ ] **Sistema de avaliação e feedback para eventos realizados**.
+- [ ] **Criação de perfis de usuário com histórico de participação em eventos**.
 
-## 💡 Como Contribuir
-Contribuições são sempre bem-vindas! Se você tem ideias para melhorar o projeto:
-1. **Faça um fork do repositório**.
-2. **Crie uma branch para sua feature**:
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Faça commit das suas mudanças**:
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push para a branch**:
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Abra um Pull Request**.
+## 🔄 Evolução do Projeto
+### Versão 1.0
+<div align="center">
+  <img src="./projeto-antigo.png" alt="Página Inicial da Antiga Iniciativa Saúde" width="1000" style="display: block;">
+</div>
+
+### Versão 2.0
+<div align="center">
+  <img src="./modal-02.png" alt="Modal Saúde" width="500" style="display: block;">
+  <img src="./modal-03.png" alt="Modal Apoiadores" width="500" style="display: block;">
+  <img src="./privacidade.png" alt="Página da Política de Privacidade" width="1000" style="display: block;">
+  <img src="./menu.png" alt="Menu da Página Aberto" width="1000" style="display: block;">
+  <img src="./erro-envio.png" alt="Erro ao Enviar Mensagem" width="1000" style="display: block;">
+</div>
+
+## 💪 Como Contribuir
+Contribuições são bem-vindas! Siga estas etapas para colaborar:
+1. Faça um fork do projeto.
+2. Crie uma nova branch para sua feature: `git checkout -b feature/nome-feature`.
+3. Commit suas mudanças: `git commit -m 'Adiciona nova feature'`.
+4. Envie para a branch: `git push origin feature/nome-feature`.
+5. Abra um Pull Request.
 
 ## 📝 Nota
-Este projeto representa não apenas uma aplicação web, mas um compromisso contínuo com a promoção da saúde e bem-estar na comunidade urbana. Sua evolução reflete o crescimento das habilidades de desenvolvimento e a visão expandida do impacto que a tecnologia pode ter na saúde pública.
+Este projeto começou como uma atividade técnica e foi aprimorado ao longo do tempo. A versão atual reflete um esforço contínuo para melhorar a funcionalidade e a usabilidade da aplicação.
