@@ -1,5 +1,5 @@
+<!-- Projeto Finalizado -->
 # 🏙️ Iniciativa Saúde 2.0
-
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/healthy-city-mvc?color=FFF&labelColor=d6e5d6&style=flat-square">
@@ -70,19 +70,18 @@ Este projeto, inicialmente desenvolvido durante um curso técnico do **Senac**, 
 - [ ] **Sistema de avaliação e feedback para eventos realizados**.
 - [ ] **Criação de perfis de usuário com histórico de participação em eventos**.
 
-## 🔄 Evolução do Projeto
-### Versão 1.0
+## 🔄 Versão 2.0
 <div align="center">
-  <img src="./projeto-antigo.png" alt="Página Inicial da Antiga Iniciativa Saúde" width="1000" style="display: block;">
-</div>
-
-### Versão 2.0
-<div align="center">
-  <img src="./modal-02.png" alt="Modal Saúde" width="500" style="display: block;">
-  <img src="./modal-03.png" alt="Modal Apoiadores" width="500" style="display: block;">
+  <img src="./modal-02.png" alt="Modal Saúde" width="1000" style="display: block;">
+  <img src="./modal-03.png" alt="Modal Apoiadores" width="1000" style="display: block;">
   <img src="./privacidade.png" alt="Página da Política de Privacidade" width="1000" style="display: block;">
   <img src="./menu.png" alt="Menu da Página Aberto" width="1000" style="display: block;">
   <img src="./erro-envio.png" alt="Erro ao Enviar Mensagem" width="1000" style="display: block;">
+</div>
+
+## 🔄 Versão 1.0
+<div align="center">
+  <img src="./projeto-antigo.png" alt="Página Inicial da Antiga Iniciativa Saúde" width="1000" style="display: block;">
 </div>
 
 ## 💪 Como Contribuir
