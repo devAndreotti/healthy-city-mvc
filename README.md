@@ -2,15 +2,15 @@
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/seu-usuario/iniciativa-saude-cidade?color=FFF&labelColor=4bae4f&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/healthy-city-mvc?color=FFF&labelColor=d6e5d6&style=flat-square">
   <!-- Tamanho do repositório no GitHub -->
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/seu-usuario/iniciativa-saude-cidade?color=FFF&labelColor=4bae4f&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/healthy-city-mvc?color=FFF&labelColor=d6e5d6&style=flat-square">
   <!-- Último commit no GitHub -->
-  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/seu-usuario/iniciativa-saude-cidade?color=FFF&labelColor=4bae4f&style=flat-square">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=d6e5d6&style=flat-square">
 </p>
 
 <div align="center">
-  <img src="./caminho-para-sua-imagem-atualizada.png" alt="Página Inicial da Iniciativa Saúde da Cidade 2.0">
+  <img src="./projeto-novo.png" alt="Página Inicial da Iniciativa Saúde da Cidade 2.0">
 </div>
 
 ## 📋 Sobre o Projeto
