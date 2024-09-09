@@ -1,50 +1,98 @@
-🏙️ Healthy-City-MVC
+# 🏙️ Iniciativa Saúde da Cidade 2.0
+
 <p align="center">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/seu-usuario/healthy-city-mvc?color=FFF&labelColor=635184&style=flat-square">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/seu-usuario/healthy-city-mvc?color=FFF&labelColor=635184&style=flat-square">
-<img alt="GitHub License" src="https://img.shields.io/github/license/seu-usuario/healthy-city-mvc?color=FFF&labelColor=635184&style=flat-square">
+  <!-- Contador de linguagens do GitHub -->
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/seu-usuario/iniciativa-saude-cidade?color=FFF&labelColor=4bae4f&style=flat-square">
+  <!-- Tamanho do repositório no GitHub -->
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/seu-usuario/iniciativa-saude-cidade?color=FFF&labelColor=4bae4f&style=flat-square">
+  <!-- Último commit no GitHub -->
+  <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/seu-usuario/iniciativa-saude-cidade?color=FFF&labelColor=4bae4f&style=flat-square">
 </p>
 
 <div align="center">
-<img src="./healthy-city.png" alt="Home Banner"/>
+  <img src="./caminho-para-sua-imagem-atualizada.png" alt="Página Inicial da Iniciativa Saúde da Cidade 2.0">
 </div>
 
-💻 Sobre o Projeto
-O Healthy-City-MVC é um website desenvolvido com HTML, CSS (Bootstrap) e JavaScript, utilizando o padrão MVC (Model-View-Controller) para gerenciar a lógica do projeto. O objetivo é promover a saúde e o bem-estar na cidade, oferecendo informações sobre eventos, dicas de saúde e um formulário de contato para interação com os usuários.
+## 📋 Sobre o Projeto
+Este projeto, inicialmente desenvolvido durante um curso técnico, foi recentemente atualizado e expandido. A **Iniciativa Saúde da Cidade** é uma aplicação web que promove saúde e bem-estar urbano através do "Movimento na Cidade", oferecendo informações sobre eventos de atividades físicas, dicas de saúde e interação com a comunidade.
 
-⚙️ Funcionalidades
-- [x] Página Inicial: Apresenta informações sobre o "Movimento na Cidade", com um título animado, descrição do projeto e um contador regressivo para o próximo evento.
-- [x] Eventos: Exibe uma lista de eventos próximos, com informações sobre data, título e descrição.
-- [x] Dicas de Saúde: Apresenta dicas de saúde em um modal, com informações sobre alimentação, exercícios, sono e gerenciamento do estresse.
-- [x] Apoiadores: Mostra os principais apoiadores do projeto, com informações sobre cada um.
-- [x] Formulário de Contato: Permite que os usuários enviem mensagens para a equipe do projeto, com validação de dados.
-- [x] Política de Privacidade: Detalhada em uma página separada, com informações sobre coleta, uso e segurança dos dados dos usuários.
+## 🆕 Novidades na Versão 2.0
+- **Design Responsivo Aprimorado**: Interface totalmente renovada com Bootstrap.
+- **Animações Interativas**: Adição de efeitos de digitação e contagem regressiva.
+- **Sistema de Eventos Dinâmico**: Implementação de um sistema de gerenciamento de eventos mais robusto.
+- **Modais Informativos**: Inclusão de modais para agenda, dicas de saúde e apoiadores.
 
-🧭 Como Executar o Projeto
-Clone o Repositório:
-git clone https://github.com/seu-usuario/healthy-city-mvc.git
-content_copy
-Use code with caution.
-Bash
-Abra o Projeto:
-Abra o arquivo index.html em um navegador.
+## ⚙️ Funcionalidades Principais
+- **Exibição e gerenciamento de eventos de atividades físicas**.
+- **Sistema de dicas de saúde e estilo de vida**.
+- **Formulário de contato interativo**.
+- **Countdown dinâmico para o próximo evento**.
+- **Seção de apoiadores do projeto**.
 
-🛠 Tecnologias Utilizadas
-HTML5: Base estrutural do website e seus elementos.
-CSS3: Estilização do website com Bootstrap.
-JavaScript: Implementação da lógica de interação, animações e envio de formulário.
-jQuery: Biblioteca JavaScript para simplificar a manipulação de elementos DOM.
+## 🛠 Tecnologias Utilizadas
+- **Backend**: ASP.NET Core MVC, Entity Framework Core
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
+- **Banco de Dados**: MySQL
+- **Outras**: Font Awesome para ícones
 
-📚 Recursos Úteis
-Bootstrap: Framework CSS para desenvolvimento web responsivo.
-jQuery: Biblioteca JavaScript para manipulação de DOM.
+## 📂 Estrutura do Projeto
+├── src/                                    # Diretório principal do código-fonte
+│   ├── css/                                # Arquivos de estilo CSS
+│   │   ├── responsive.css                  # Estilos para responsividade
+│   │   └── style.css                       # Estilos principais
+│   └── js/                                 # Scripts JavaScript
+│       ├── app.js                          # Lógica principal da aplicação
+│       ├── data.js                         # Gerenciamento de dados
+│       ├── menu.js                         # Funcionalidades do menu
+│       └── theme.js                        # Gerenciamento de temas
+├── index.html                              # Página principal do projeto
+└── README.md                               # Documentação do projeto
 
-## 💪 Contribuição
-1. Faça um fork do projeto.
-2. Crie uma nova branch para sua feature: `git checkout -b feature/nome-feature`.
-3. Commit suas mudanças: `git commit -m 'Adiciona nova feature'`.
-4. Envie para a branch: `git push origin feature/nome-feature`.
-5. Abra um Pull Request.
+## 🚀 Como Executar o Projeto
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/iniciativa-saude-cidade.git
+   ```
+2. **Restaure as dependências**:
+   ```bash
+   dotnet restore
+   ```
+3. **Configure o banco de dados** no arquivo `appsettings.json`.
+4. **Execute as migrações**:
+   ```bash
+   dotnet ef database update
+   ```
+5. **Inicie a aplicação**:
+   ```bash
+   dotnet run
+   ```
 
-## 📌 Nota do Projeto
-Este projeto foi originalmente desenvolvido como parte de uma atividade educacional e está sob a Licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme os termos da licença.
+## 🔄 Evolução do Projeto
+- **Versão 1.0**: Desenvolvida durante o curso técnico, com funcionalidades básicas.
+- **Versão 2.0**: Atualização recente com melhorias significativas na interface e funcionalidades.
+
+## 🔮 Planos Futuros
+- [ ] **Implementação de um sistema de login para usuários**.
+- [ ] **Criação de perfis de usuário com histórico de participação em eventos**.
+- [ ] **Integração com APIs de mapas para localização de eventos**.
+- [ ] **Sistema de avaliação e feedback para eventos realizados**.
+
+## 💡 Como Contribuir
+Contribuições são sempre bem-vindas! Se você tem ideias para melhorar o projeto:
+1. **Faça um fork do repositório**.
+2. **Crie uma branch para sua feature**:
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. **Faça commit das suas mudanças**:
+   ```bash
+   git commit -m 'Add some AmazingFeature'
+   ```
+4. **Push para a branch**:
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+5. **Abra um Pull Request**.
+
+## 📝 Nota
+Este projeto representa não apenas uma aplicação web, mas um compromisso contínuo com a promoção da saúde e bem-estar na comunidade urbana. Sua evolução reflete o crescimento das habilidades de desenvolvimento e a visão expandida do impacto que a tecnologia pode ter na saúde pública.
